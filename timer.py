@@ -1,7 +1,7 @@
 #python file
 #This is my feeble attempt at a timer
 
-import time, sys, threading
+import time, sys 
 
 def Timer():
 
